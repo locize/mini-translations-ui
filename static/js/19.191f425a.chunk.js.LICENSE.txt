@@ -1,0 +1,27 @@
+/**
+ * Build RegExp object for wildcard string including "?" and "*"
+ *
+ * @param str {String|Array} wildcard string or an array of them
+ * @param [opt] {String} RegExp option: "i"
+ * @returns {RegExp}
+ * @license MIT
+ * @see https://gist.github.com/kawanet/a056f4ff59853b2e3f48bd548eddfd02
+ */
+
+/**
+ * Convert array of array to CSV (text/comma-separated-values)
+ *
+ * @param table {Array} array of array
+ * @returns {String} CSV
+ * @license MIT
+ * @see https://gist.github.com/kawanet/8438183
+ */
+
+/**
+ * Read all data from stream
+ * 
+ * @param stream {Stream}
+ * @param callback {Function} function(err, str) {...}
+ * @license MIT
+ * @see https://gist.github.com/kawanet/c6c998b00500fe05eb8dfd0ee80deacf
+ */
